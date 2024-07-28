@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kigalitics - Rwanda Entertainment and Sports News</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #007bff; /* Blue */
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #28a745; /* Green */
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #ffc107; /* Yellow */
+            text-align: center;
+            padding: 10px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        .hero {
+            background-image: url('kigali_city_image.jpg'); /* Placeholder for Kigali city image */
+            height: 300px;
+            background-size: cover;
+            color: white;
+            text-align: center;
+            padding: 50px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Kigalitics</h1>
+    <p>Your Source for Rwandan and International Entertainment and Sports News</p>
+</header>
+
+<nav>
+    <a href="#home">Ahabanza</a>
+    <a href="#about">Abo turi bo</a>
+    <a href="#breaking-news">Ashyushye</a>
+    <a href="#gossip">Biravugwa</a>
+    <a href="#investigative-stories">Ayo mu ndiba</a>
+    <a href="#contact">Tuvugishe</a>
+    <a href="#livestream">Ihere ijisho</a>
+</nav>
+
+<section id="home" class="hero">
+    <h2>Welcome to Kigalitics</h2>
+</section>
+
+<section id="about">
+    <h2>Abo turi bo</h2>
+    <p>Kigalitics is dedicated to bringing you the latest in entertainment, sports, and investigative news from Rwanda and beyond.</p>
+</section>
+
+<section id="breaking-news">
+    <h2>Ashyushye</h2>
+    <p>Stay updated with the latest breaking news in entertainment and sports.</p>
+</section>
+
+<section id="gossip">
+    <h2>Biravugwa</h2>
+    <p>Catch up on the latest gossip and happenings in the entertainment world.</p>
+</section>
+
+<section id="investigative-stories">
+    <h2>Ayo mu ndiba</h2>
+    <p>In-depth investigative stories that matter to you.</p>
+</section>
+
+<section id="contact">
+    <h2>Tuvugishe</h2>
+    <p>For inquiries, reach out to us at: <a href="mailto:info@kigalitics.com">info@kigalitics.com</a></p>
+</section>
+
+<section id="livestream">
+    <h2>Ihere ijisho</h2>
+    <p>Access free livestream links for various events.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Kigalitics. All rights reserved.</p>
+</footer>
